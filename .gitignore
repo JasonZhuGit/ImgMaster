@@ -1,0 +1,8 @@
+#ignore build file
+/build-*
+debug*
+release*
+*.pro.user*
+*.Debug
+*.Release
+*Makefile

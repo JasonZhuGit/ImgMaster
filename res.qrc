@@ -1,0 +1,8 @@
+<RCC>
+    <qresource lang="chinese" prefix="/icon">
+        <file alias="fileOpen">res/file_open.png</file>
+        <file alias="fileNew">res/file_new.png</file>
+        <file alias="fileSave">res/file_save.png</file>
+        <file alias="viewChange">res/view_change.png</file>
+    </qresource>
+</RCC>
